@@ -1,0 +1,179 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-family: 'Anton', sans-serif;
+  color: white;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h2 {
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  line-height: 1.5;
+}
+
+footer {
+  background-color: #fff;
+  text-align: center;
+  padding: 5%;
+}
+
+#title {
+  background-color: #ff4c68;
+  position: relative;
+}
+
+@media (max-width: 1028px) {
+  #title {
+    text-align: center;
+  }
+
+  #title2 {
+    margin-top: 5rem;
+  }
+
+  #feature {
+    padding: 7% 15%;
+    text-align: center;
+  }
+
+  .h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+
+  .h3-sub {
+    color: #8f8f8f;
+  }
+
+  .title-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    margin-left: 0;
+  }
+
+  .iphone6 {
+    transform: rotate(25deg);
+  }
+
+  .container-fluid {
+    padding: 3% 15%;
+  }
+
+  .download-botton {
+    margin: 5% 3% 5% 0;
+  }
+
+  .icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+  }
+
+  .icon:hover {
+    color: #ff4c68;
+  }
+
+  .testimonials {
+    text-align: center;
+    background-color: #ef8172;
+  }
+
+  .pebbles {
+    width: 10%;
+    border-radius: 100%;
+    padding: 20px;
+  }
+
+  .testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    padding: 20px;
+    shape-outside: circle();
+  }
+
+  .press {
+    background-color: #ef8172;
+    text-align: center;
+  }
+
+  .card-title {
+    color: black;
+  }
+
+  .presslogo {
+    width: 15%;
+    margin: 20px 20px 50px;
+  }
+
+  .carousel-item {
+    padding: 7% 15%;
+  }
+
+  .h4 {
+    padding: 7% 15%;
+  }
+
+  .pricing {
+    padding: 100px;
+    text-align: center;
+  }
+
+  .features {
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+  }
+
+  .iphone6 {
+    position: static;
+    transform: rotate(0);
+  }
+
+
+.cta {
+  text-align: center;
+  background-color: #ff4c68;
+  padding: 3% 5%;
+}
+
+.ctah3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: white;
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+.copyright {
+  color: #8f8f8f;
+  text-align: center;
+}
+
+.social {
+  padding-bottom: 5%;
+  text-align: center;
+  position: relative;
+  left: 1rem;
+}
+
+.fa-facebook {
+  padding-right: 3%
+}
+
+.fa-twitter {
+  padding-right: 3%
+}
+
+.fa-instagram-square {
+  padding-right: 3%
+}
+
+.fa-envelope-square {
+  padding-right: 3%
+}
