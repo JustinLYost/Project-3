@@ -134,6 +134,7 @@ footer {
   .iphone6{
     position: static;
     transform: rotate(25);
+    image-orientation: 25deg;
   }
 
 
