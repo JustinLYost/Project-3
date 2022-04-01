@@ -28,7 +28,7 @@ footer {
 }
 
 @media (max-width: 1028px) {
-  }
+}
   #title {
     text-align: center;
   }
@@ -37,7 +37,7 @@ footer {
     margin-top: 5rem;
   }
 
-  #features{
+  #features {
     padding: 7% 15%;
     text-align: center;
   }
@@ -108,7 +108,7 @@ footer {
   }
 
   .presslogo {
-    width: 15%;
+    width: 12%;
     margin: 20px 20px 50px;
   }
 
@@ -131,9 +131,9 @@ footer {
     z-index: 1;
   }
 
-  .iphone6 {
+  .iphone6{
     position: static;
-    transform: rotate(0);
+    transform: rotate(25);
   }
 
 
